@@ -1,4 +1,4 @@
-# PBFT (Practical Byzantine Fault Tolerance) 완벽 가이드
+# PBFT (Practical Byzantine Fault Tolerance)
 
 > **원 논문**: "Practical Byzantine Fault Tolerance" - Miguel Castro and Barbara Liskov (OSDI '99)
 
